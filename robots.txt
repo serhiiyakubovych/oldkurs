@@ -1,0 +1,4 @@
+Sitemap: http://alexandrovandco.adr.com.ua/sitemap.xml.
+
+User-agent: *
+Allow:
