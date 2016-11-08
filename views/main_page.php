@@ -78,8 +78,7 @@
                     Copyright © Міжнародна юридична компанія "Александров і партнери" 2016
             </div>
         </footer>
-        
-        <a href="#top" id="scrollup"></a> <!-- Кнопка "Вгору" -->
+                
         <a href="#" id="onmenu"></a> <!-- Кнопка "Відкрити навігаціне меню" -->
         <div id="menu"> <!-- Навігаційне меню -->
             <a href="#"><h2>Александров<br>і партнери</h2></a>
@@ -92,6 +91,7 @@
                 <a href="#contacts"><li>Контакти</li></a>
             </ul>
         </div>
+        <a href="#top" id="scrollup"></a> <!-- Кнопка "Вгору" -->
         <script src="js/main.js"></script>
     </body>
     
