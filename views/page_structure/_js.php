@@ -1,0 +1,1 @@
+<script src="http://oldkurs.zzz.com.ua/js/main.js"></script>

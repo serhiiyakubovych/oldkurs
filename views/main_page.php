@@ -6,7 +6,7 @@
     ?>
     
     <body>
-        
+               
         <?php
             include("page_structure/header.php");
         ?>
@@ -45,14 +45,12 @@
             </div>
         </main>
         
-        <?php
-            include("page_structure/footer.php");
-        ?>        
         <a href="#top" id="scrollup"></a> <!-- Кнопка "Вгору" -->
         <?php
+            include("page_structure/footer.php");
             include("page_structure/navmenu.php");
+            include("page_structure/_js.php");
         ?>
-        <script src="js/main.js"></script>
     </body>
     
 </html>

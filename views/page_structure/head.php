@@ -4,10 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Юридична компанія">
     <meta name="description" content="Міжнародна юридична компанія 'Александров і партнер'и створена в 2002 році адвокатами, що мають великий досвід роботи в різних галузях права, здатними розв'язати найскладнішу проблему.">
-    <link rel="icon" href="favicon.ico">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Міжнародна юридична компанія "Александров і партнери"</title>
-    <script src="js/jquery-3.1.1.min.js"></script>
+    <link rel="icon" href="http://oldkurs.zzz.com.ua/favicon.ico">
+    <link rel="stylesheet" href="http://oldkurs.zzz.com.ua/css/style.css">
+    <title><?=$subtitle?>Міжнародна юридична компанія "Александров і партнери"</title>
+    <script src="http://oldkurs.zzz.com.ua/js/jquery-3.1.1.min.js"></script>
 
     <!--Для старих версій IE 9-->
     <!--[if lt IE 9]>
