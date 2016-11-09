@@ -19,7 +19,7 @@
                     <figure class="main-page-figure">
                         <img src="img/main_1.jpg" alt="Про нас">
                         <figcaption>Міжнародна юридична компанія "Александров і партнери"</figcaption>
-                        <a href="about-us"><button class="green-button">Детальніше</button></a>
+                        <a href="about-us#aboutus"><button class="green-button">Детальніше</button></a>
                     </figure>
                 </div>
                 
@@ -28,7 +28,7 @@
                    <figure class="main-page-figure">
                         <img src="img/main_2.jpg" alt="Послуги">
                         <figcaption>Наші послуги</figcaption>
-                       <a href="services"><button class="green-button">Детальніше</button></a>
+                       <a href="services#services"><button class="green-button">Детальніше</button></a>
                     </figure>
 
                 </div>
@@ -38,7 +38,7 @@
                     <figure class="main-page-figure">
                         <img src="img/main_3.jpg" alt="Юристи">
                         <figcaption>Юристи</figcaption>
-                        <a href="lawyers"><button class="green-button">Детальніше</button></a>
+                        <a href="lawyers#lawyers"><button class="green-button">Детальніше</button></a>
                     </figure>
                 </div>
                 
