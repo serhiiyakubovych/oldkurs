@@ -36,7 +36,7 @@ function scrollUp() {
 };
 
 function switchMenu(e) {
-    event.preventDefault();
+    e.preventDefault();
     $('#menu').animate({ width: 'toggle' }, 600);
 };
 

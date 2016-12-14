@@ -16,34 +16,34 @@
             <div class="edit_form">
                <?
                 if ($table === 'serviceslist') {
-                    echo "<h2>Редагування інформації про послугу</h2>";
-                    echo "<form method='post' action='index.php?table=" . $table . "&action=" . $_GET['action'] . "&id=" . $_GET['id'] . "'>";
-                    echo    "<label>Назва";
-                    echo    "<input class='form-item' type='text' name='title' value='" . $service['title'] . "' autofocus required>";
-                    echo    "</label><br>";
-                    echo    "<label>Адреса зображення";
-                    echo    "<input class='form-item' type='text' name='img_address' value='" . $service['img_address'] . "' required>";
-                    echo    "</label><br>";
-                    echo    "<label>Детальний опис";
-                    echo    "<textarea class='form-item' name='content' required>" . $service['content'] . "</textarea>";
-                    echo    "</label><br>";
-                    echo    "<input class='green-button' type='submit' value='Зберегти'>";
-                    echo "</form>";
+                    echo "<h2>Редагування інформації про послугу</h2>
+                            <form method='post' action='index.php?table={$table}&action={$_GET['action']}&id={$_GET['id']}'>
+                                <label>Назва
+                                <input class='form-item' type='text' name='title' value='{$service['title']}' autofocus required>
+                                </label><br>
+                                <label>Адреса зображення
+                                <input class='form-item' type='text' name='img_address' value='{$service['img_address']}' required>
+                                </label><br>
+                                <label>Детальний опис
+                                <textarea class='form-item' name='content' required>{$service['content']}</textarea>
+                                </label><br>
+                                <input class='green-button' type='submit' value='Зберегти'>
+                            </form>";
                 }
                 else if ($table === 'lawyerslist') {
-                    echo "<h2>Редагування інформації про юриста</h2>";
-                    echo "<form method='post' action='index.php?table=" . $table . "&action=" . $_GET['action'] . "&id=" . $_GET['id'] . "'>";
-                    echo    "<label>Ім'я";
-                    echo    "<input class='form-item' type='text' name='name' value='" . $lawyer['name'] . "' autofocus required>";
-                    echo    "</label><br>";
-                    echo    "<label>Посада";
-                    echo    "<input class='form-item' type='text' name='position' value='" . $lawyer['position'] . "' required>";
-                    echo    "</label><br>";
-                    echo    "<label>Email";
-                    echo    "<input class='form-item' type='email' name='email' value='" . $lawyer['email'] . "' required>";
-                    echo    "</label><br>";
-                    echo    "<input class='green-button' type='submit' value='Зберегти'>";
-                    echo "</form>";
+                    echo "<h2>Редагування інформації про юриста</h2>
+                            <form method='post' action='index.php?table={$table}&action={$_GET['action']}&id={$_GET['id']}'>
+                                <label>Ім'я
+                                <input class='form-item' type='text' name='name' value='{$lawyer['name']}' autofocus required>
+                                </label><br>
+                                <label>Посада
+                                <input class='form-item' type='text' name='position' value='{$lawyer['position']}' required>
+                                </label><br>
+                                <label>Email
+                                <input class='form-item' type='email' name='email' value='{$lawyer['email']}' required>
+                                </label><br>
+                                <input class='green-button' type='submit' value='Зберегти'>
+                            </form>";
                 }
                 ?>
             </div>

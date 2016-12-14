@@ -13,9 +13,9 @@
         ?>
         
         <main>
-            <div class="container">                                
+            <div class="container">
                 <div id="services">
-                   <h2 class="sub-head-text">Які послуги ми надаємо</h2>                    
+                   <h2 class="sub-head-text">Які послуги ми надаємо</h2>
                     <? $i = 0;
                     foreach($services as $service) { //розташовуємо по два записи з БД у рядок
                         if (($i % 2) === 0) echo "<div class='row'>"; //на парному запису рядок відкривається
