@@ -1,3 +1,8 @@
+<div class="feedback">
+    <div class="feedback--photo"></div>
+    <p class="feedback--description">Ми працюємо цілодобово. Телефонуйте вже зараз та отримайте відовідь!<br>Тел. +38 (097) 123-43-21</p>
+    <div class="feedback--show-button"><span>Зателефонуйте зараз!</span></div>
+</div>
 <footer id="contacts">
     <h2 class="sub-head-text">Контакти</h2>
     <div class="contacts">
