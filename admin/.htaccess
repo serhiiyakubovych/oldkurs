@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Admin Panel"
-AuthUserFile /var/www/domains/o/ol/old/oldkurs.zzz.com.ua/admin/.htpasswd
-Require valid-user
