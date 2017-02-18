@@ -64,6 +64,7 @@ img {
 }
 
 .container .row {
+    padding-top: 15px;
     background: #a4a4a4;
 }
 
@@ -354,6 +355,14 @@ footer#contacts .copyright {
     list-style: none;
 }
 
+.contacts-in-page ul {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+}
+
 .contacts ul li {
     margin-bottom: 0.75em;
 }
@@ -484,8 +493,8 @@ footer#contacts .copyright {
     height: 48px;
     padding: 0;
     position: fixed;
-    top: 1em;
-    right: 1em;
+    top: 1.15em;
+    right: 1.15em;
     text-indent: -9999px;
     background: url("../img/nav_icon_close_menu.png") no-repeat center center;
     background-color: white;
@@ -563,12 +572,21 @@ footer#contacts .copyright {
 }
 
 .edit_form > label {
+    display: block;
+    margin-top: 20px;
     width: 100%;
     font-size: 1em;
 }
 
 .edit_form .form-item {
+    padding: 10px;
+    margin-top: 20px;
     width: 100%;
+    border-radius: 10px;
+}
+
+.edit_form [type="submit"] {
+    margin-top: 20px;
 }
 
 /* HELP */
@@ -613,14 +631,15 @@ footer#contacts .copyright {
   margin-right: 20px;
 }
 .feedback--description {
+  margin-top: 45px;
   font-size: 20px;
 }
 .feedback--show-button {
   display: inline-block;
   position: absolute;
-  top: 97px;
+  top: 95px;
   right: -123px;
-  width: 221px;
+  width: 220px;
   padding: 3px 0;
   transform: rotate(-90deg);
   border-radius: 0 0 12px 12px;

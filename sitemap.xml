@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
-       <loc>http://alexandrovandco.adr.com.ua/index.html</loc>
+       <loc>http://oldkurs.zzz.com.ua/index.html</loc>
        <lastmod>2016-10-19</lastmod>
        <changefreq>weekly</changefreq>
        <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://alexandrovandco.adr.com.ua/img/</loc>
+        <loc>http://oldkurs.zzz.com.ua/img/</loc>
         <image:image>
-            <image:loc>http://alexandrovandco.adr.com.ua/img/law_main_2.jpg</image:loc>
+            <image:loc>http://oldkurs.zzz.com.ua/img/law_main_2.jpg</image:loc>
             <image:caption>Александров і партнери</image:caption>
         </image:image>
         <image:image>
-            <image:loc>http://alexandrovandco.adr.com.ua/img/law_main_6.jpg</image:loc>
+            <image:loc>http://oldkurs.zzz.com.ua/img/law_main_6.jpg</image:loc>
             <image:caption>Александров і партнери</image:caption>
         </image:image>
    </url>

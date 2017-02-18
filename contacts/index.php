@@ -7,7 +7,7 @@
     if ($action == "send"){
         if (!empty($_POST))
         {
-            mail("alexandrov@alexandrovandco.adr.com.ua", trim($_POST['subject']), trim($_POST['message']));
+            mail("alexandrov@oldkurs.zzz.com.ua", trim($_POST['subject']), trim($_POST['message']));
             header("Location: index.php");
         }
         include("../views/contacts.php");

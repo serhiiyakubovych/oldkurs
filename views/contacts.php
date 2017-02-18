@@ -15,7 +15,7 @@
         <main>
             <div class="container">
                 <h2 class="sub-head-text">Контакти</h2>
-                <div class="contacts">
+                <div class="contacts contacts-in-page">
                     <ul>
                         <li><span class="big-text">Міжнародна юридична компанія "Александров і партнери"</span></li>
                         <li>Email: <a href="mailto:alexandrovandco@gmail.com">alexandrovandco@gmail.com</a></li>

@@ -11,8 +11,8 @@
             <li><span class="grey-text">Email:</span> <a href="mailto:alexandrovandco@gmail.com">alexandrovandco@gmail.com</a></li>
             <li><span class="grey-text">Наша адреса:</span> 05252 м. Київ, вулиця О. Теліги, 31, кв. 1а</li>
             <li><span class="grey-text">Телефон:</span> +38 097 123 43 21</li>
-            <li><a href="http://oldkurs.zzz.com.ua/admin">Увійти</a></li>
-            <li><a href="http://oldkurs.zzz.com.ua/help">Довідка</a></li>
+            <li><a href="/admin">Увійти</a></li>
+            <li><a href="/help">Довідка</a></li>
         </ul>
     </div>
     <div class="social">

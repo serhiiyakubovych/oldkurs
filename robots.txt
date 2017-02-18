@@ -1,4 +1,4 @@
-Sitemap: http://alexandrovandco.adr.com.ua/sitemap.xml.
+Sitemap: http://oldkurs.zzz.com.ua/sitemap.xml.
 
 User-agent: *
 Allow:

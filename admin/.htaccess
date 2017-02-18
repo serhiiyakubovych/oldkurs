@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Admin Panel"
-AuthUserFile /var/www/domains/a/al/ale/alexandrovandco.adr.com.ua/admin/.htpasswd
+AuthUserFile /var/www/domains/o/ol/old/oldkurs.zzz.com.ua/admin/.htpasswd
 Require valid-user
